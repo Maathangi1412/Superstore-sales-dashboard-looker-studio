@@ -93,6 +93,15 @@ The dashboard presents an executive overview of retail sales performance by comb
 
 ```
 
+📁 superstore-sales-dashboard-looker-studio
+
+├── README.md
+├── Dashboard.pdf
+├── Superstore_Products_Dataset.xlsx
+├── Project_Summary.pdf
+└── images
+    └── dashboard.png
+    
 ---
 
 # 💡 Skills Demonstrated
