@@ -89,7 +89,8 @@ The Superstore Sales Performance Dashboard provides an executive view of retail 
 
 > **Dashboard Screenshot**
 
-<img width="1027" height="774" alt="image" src="https://github.com/user-attachments/assets/be21c6b2-1ac4-42cc-b82a-3f28a475c37e" />
+<img width="910" height="691" alt="image" src="https://github.com/user-attachments/assets/266490da-69b8-4e50-95d8-f0d947c1bb8b" />
+
 
 
 ---
