@@ -1,14 +1,14 @@
 # 📊 Superstore Sales Performance Dashboard | Google Looker Studio
 
-An interactive **Sales Performance Dashboard** built using **Google Looker Studio** to analyze a sample retail sales dataset. The dashboard provides insights into sales, profit, customer orders, product categories, delivery methods, and regional performance through interactive visualizations and KPI scorecards.
+An interactive **Sales Performance Dashboard** built using **Google Looker Studio** to analyze the Sample Superstore retail dataset. The dashboard provides a comprehensive overview of sales, profit, customer orders, product categories, delivery methods, and regional performance through intuitive KPI scorecards and visualizations.
 
 ---
 
-## 🔗 Live Dashboard
+## 🌐 Live Dashboard
 
 **Google Looker Studio Report**
 
-https://datastudio.google.com/reporting/c37c4ea1-a601-4c74-9300-de35501b3721
+🔗 https://datastudio.google.com/reporting/c37c4ea1-a601-4c74-9300-de35501b3721
 
 ---
 
@@ -16,49 +16,48 @@ https://datastudio.google.com/reporting/c37c4ea1-a601-4c74-9300-de35501b3721
 
 **Sample Superstore Dataset (Google Sheets)**
 
-https://docs.google.com/spreadsheets/d/1sns7is56QWKMO3XGy40b92xs0I_RY4bC4I6aqeqkCV4/edit?gid=0#gid=0
-
-The Sample Superstore dataset is a fictional retail sales dataset commonly used for learning business intelligence, dashboard development, and data visualization. It contains order-level information such as sales, profit, customer segments, shipping details, product categories, and regional data. :contentReference[oaicite:0]{index=0}
+🔗 https://docs.google.com/spreadsheets/d/1sns7is56QWKMO3XGy40b92xs0I_RY4bC4I6aqeqkCV4/edit?gid=0#gid=0
 
 ---
 
-# 🎯 Project Objective
+## 🎯 Project Objective
 
-To design an interactive sales dashboard using Google Looker Studio that enables users to monitor key retail business metrics, analyze sales performance, identify profitable product categories, and explore regional and delivery trends using a sample retail dataset.
+To develop an interactive retail sales dashboard using Google Looker Studio that enables users to monitor key business metrics, analyze sales and profit trends, evaluate regional performance, and gain actionable insights from a sample retail dataset.
 
 ---
 
-# 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
 - Google Looker Studio
 - Google Sheets
+- Microsoft Excel
 - Sample Superstore Dataset
 
 ---
 
-# 📈 Dashboard Features
+## 📈 Dashboard Features
 
 ### KPI Scorecards
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Customers
-- Units Sold
+- 💰 Total Sales
+- 📈 Total Profit
+- 📦 Total Orders
+- 👥 Total Customers
+- 🛒 Units Sold
 
 ### Visualizations
-- Annual Sales Trend
-- Orders by Delivery Type
-- Orders by Region
-- Profit by Category
-- Discount vs Profit
-- Sales by Country
+- 📉 Annual Sales Trend
+- 🚚 Orders by Delivery Type
+- 🌍 Orders by Region
+- 📊 Profit by Category
+- 💲 Discount vs Profit
+- 🗺️ Sales by Country
 
 ---
 
-# 📊 Key Metrics
+## 📊 Key Metrics
 
 | Metric | Value |
-|--------|-------:|
+|---------|-------:|
 | Total Sales | **$2,297,201** |
 | Total Profit | **$286,397** |
 | Total Orders | **5,009** |
@@ -67,68 +66,78 @@ To design an interactive sales dashboard using Google Looker Studio that enables
 
 ---
 
-# 🔍 Key Findings
+## 🔍 Key Findings
 
-- Generated over **$2.30 million** in total sales during the analysis period.
-- Achieved a total profit of approximately **$286.40 thousand**.
+- Generated **$2.30 million** in total sales during the analysis period.
+- Earned an overall profit of approximately **$286.40 thousand**.
 - Processed **5,009 customer orders** from **793 unique customers**.
 - Sold **37,873 units** across multiple product categories.
-- Annual sales showed an increasing trend, with **2014 recording the highest sales**.
+- Annual sales increased over the four-year period, with **2014 recording the highest sales**.
 - **Standard Class** was the most frequently used delivery method.
-- The **West** region contributed the highest share of customer orders.
+- The **West** region accounted for the highest share of customer orders.
 - **Technology** generated the highest profit among all product categories, while **Furniture** generated the lowest.
 
 ---
 
-# 📋 Dashboard Summary
+## 📋 Dashboard Summary
 
-The dashboard presents an executive overview of retail sales performance by combining KPI scorecards with business visualizations. It enables users to analyze yearly sales trends, compare regional performance, evaluate product category profitability, and understand customer delivery preferences. This project demonstrates how Google Looker Studio can transform transactional retail data into meaningful business insights through effective data visualization.
+The Superstore Sales Performance Dashboard provides an executive view of retail business performance by combining KPI scorecards with interactive charts. It enables users to analyze sales trends, compare regional performance, evaluate category profitability, and understand customer delivery preferences. This project demonstrates practical dashboard development and business intelligence reporting using Google Looker Studio.
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-> <img width="1024" height="769" alt="image" src="https://github.com/user-attachments/assets/f7904952-8073-41cd-9a39-482511e9e775" />
+> **Dashboard Screenshot**
+
+<img width="1027" height="774" alt="image" src="https://github.com/user-attachments/assets/be21c6b2-1ac4-42cc-b82a-3f28a475c37e" />
 
 
-```
-
-📁 superstore-sales-dashboard-looker-studio
-
-├── README.md
-├── Dashboard.pdf
-├── Superstore_Products_Dataset.xlsx
-├── Project_Summary.pdf
-└── images
-    └── dashboard.png
-    
 ---
 
-# 💡 Skills Demonstrated
+## 💡 Skills Demonstrated
 
 - Data Visualization
-- Business Intelligence
 - Dashboard Design
+- Business Intelligence
 - KPI Reporting
 - Retail Sales Analytics
 - Trend Analysis
 - Data Storytelling
 - Google Looker Studio
+- Google Sheets
+- Microsoft Excel
+- Business Reporting
 - Data Interpretation
 
 ---
 
-# 🚀 Conclusion
+## 📁 Repository Contents
 
-This project demonstrates the use of Google Looker Studio to build an interactive retail sales dashboard from a sample dataset. The dashboard highlights key business metrics, sales trends, profitability, and regional performance, showcasing essential dashboard development and business intelligence skills suitable for data analytics portfolios.
+```
+📦 superstore-sales-dashboard-looker-studio
+│
+├── README.md
+├── Dashboard.pdf
+├── Project_Summary.pdf
+├── Superstore_Products_Dataset.xlsx
+└── images
+    └── dashboard.png
+```
 
 ---
 
-👩‍💻 Author
-Maathangi
+## 🚀 Conclusion
 
-Aspiring Data Analyst | Microsoft Excel | SQL | Power BI | Python
+This project demonstrates the creation of an interactive retail sales dashboard using Google Looker Studio. Through KPI scorecards and business-focused visualizations, the dashboard transforms transactional data into meaningful insights that support performance monitoring and decision-making. It showcases essential skills in data visualization, dashboard design, and business intelligence reporting.
 
-🔗 GitHub: https://github.com/Maathangi1412
+---
 
-🔗 LinkedIn: www.linkedin.com/in/maathangi-p-560266333
+## 👤 Author
+
+**Maathangi**
+
+- **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile
+- **GitHub:** https://github.com/your-github-username
+
+---
+⭐ If you found this project helpful, consider giving this repository a star!
