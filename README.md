@@ -137,8 +137,9 @@ This project demonstrates the creation of an interactive retail sales dashboard 
 
 **Maathangi**
 
-- **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile
-- **GitHub:** https://github.com/your-github-username
+- **LinkedIn:** www.linkedin.com/in/maathangi-p-analyst
+
+- **GitHub:** https://github.com/Maathangi1412
 
 ---
 ⭐ If you found this project helpful, consider giving this repository a star!
