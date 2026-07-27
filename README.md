@@ -114,7 +114,6 @@ The dashboard presents an executive overview of retail sales performance by comb
 - Trend Analysis
 - Data Storytelling
 - Google Looker Studio
-- Google Sheets
 - Data Interpretation
 
 ---
