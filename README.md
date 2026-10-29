@@ -142,4 +142,3 @@ This project demonstrates the creation of an interactive retail sales dashboard 
 - **GitHub:** https://github.com/Maathangi1412
 
 ---
-⭐ If you found this project helpful, consider giving this repository a star!
